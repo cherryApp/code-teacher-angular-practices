@@ -1,6 +1,10 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
+// cmd: ng g c page/home;
+// cmd: ng g c page/nav;
+
+
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 
