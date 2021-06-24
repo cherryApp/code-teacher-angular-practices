@@ -5,6 +5,7 @@ import { BrowserModule } from '@angular/platform-browser';
 // test 2 wt.
 // test 3 wt.
 // cmd: echo 'test';
+// cmd: echo 'test222';
 
 
 import { AppRoutingModule } from './app-routing.module';
