@@ -7,6 +7,7 @@ import { BrowserModule } from '@angular/platform-browser';
 // cmd: echo 'test';
 // cmd: echo 'test222';
 // cmd: npm i;
+// hello world;
 
 
 import { AppRoutingModule } from './app-routing.module';
