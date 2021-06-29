@@ -10,6 +10,8 @@ import { FormsModule } from '@angular/forms';
 // cmd: ng g c page/user-edit;
 // cmd: ng g c page/forbidden;
 // cmd: ng g service service/jwt-interceptor;
+// cmd: ng g service service/user;
+//
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
