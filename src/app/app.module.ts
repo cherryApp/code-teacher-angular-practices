@@ -16,9 +16,7 @@ import { AppComponent } from './app.component';
     HttpClientModule,
     FormsModule,
   ],
-  providers: [
-    {provide: HTTP_INTERCEPTORS, useClass: JwtInterceptorService, multi: true},
-  ],
+  providers: [],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
