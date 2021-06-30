@@ -5,8 +5,7 @@
       "branch": "auth-l01",
       "name": "Components",
       "workflow_json": "auth-l01.json",
-      "workflow_audio": "auth-l01.mp3",
-      "workflow_audio_start": -1
+      "workflow_audio": "auth-l01.mp3"
     }
   ]
 }
