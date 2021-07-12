@@ -1,1 +1,18 @@
-{"lessons":[{"id":"l01","branch":"auth-l01","name":"auth-l01","workflow_json":"auth-l01.json","workflow_audio":"auth-l01.mp3"},{"id":"l02","branch":"auth-l02","name":"auth-l02","workflow_json":"auth-l02.json","workflow_audio":"auth-l02.mp3"}]}
+{
+  "lessons": [
+    {
+      "id": "l01",
+      "branch": "auth-l01",
+      "name": "Auth-01",
+      "workflow_json": "auth-l01.json",
+      "workflow_audio": "auth-l01.mp3"
+    },
+    {
+      "id": "l02",
+      "branch": "auth-l02",
+      "name": "Auth-02",
+      "workflow_json": "auth-l02.json",
+      "workflow_audio": "auth-l02.mp3"
+    }
+  ]
+}
